@@ -1,0 +1,11 @@
+dd{
+  font-size: 2rem;
+  font-weight: bold;
+}
+dl{
+  background-color: rgb(207, 207, 203,.5);
+  padding: 2rem;
+  border-radius: 2rem;
+  margin:  0 auto;
+  width: 500px;
+}
